@@ -3,8 +3,7 @@ Ghibli Universe Landing Page
 
 Welcome to the Ghibli Universe Landing Page, a tribute to the magical world of Hayao Miyazaki! This landing page is a one-stop destination for all Ghibli movie fans, allowing you to browse through your favorite movies and deep dive into the enchanting world of Hayao Miyazaki.
 
-<iframe width="640" height="339" src="https://www.loom.com/share/c5b6a4e9e32649c8957dd28153f686ec" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>
-</iframe>
+[![Ghibli Universe Demo]](.{https://www.loom.com/share/c5b6a4e9e32649c8957dd28153f686ec}. "Video demo")
 
 Features
 --------
